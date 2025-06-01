@@ -1,0 +1,10 @@
+<!-- res/drawable/button_background_ripple.xml -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?attr/colorControlHighlight"> <!-- ripple color -->
+
+    <item>
+        <shape android:shape="oval">
+        </shape>
+    </item>
+
+</ripple>

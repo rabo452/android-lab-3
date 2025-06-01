@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="red">#c74940</color>
+    <color name="add_contact_button_color">#24c4d6</color>
 </resources>

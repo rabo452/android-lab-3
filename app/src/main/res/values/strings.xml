@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Lab 3</string>
+    <string name="main_page_contact_list_title">Contacts</string>
+    <string name="main_page_contact_list_empty">Your contact list is empty</string>
+    <string name="add_contact">Add contact</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="add_contact_short">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="take_photo">Take photo</string>
+    <string name="invalid_contact_info">Add contact information</string>
+    <string name="grant_camera_permission">Grant camera permission</string>
 </resources>
